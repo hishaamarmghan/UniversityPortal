@@ -1,0 +1,46 @@
+ENG101	English Comprehension	1
+MTH101	Calculus And Analytical Geometry  1
+PAK301	Pakistan Studies	2
+ISL201	Islamic Studies		2
+SE304	Object Oriented Programming	2	
+ENG201	Business and Technical English Writing	2
+MTH202	Discrete Mathematics	1		 	
+MTH301	Calculus II	4		 	
+ECO401	Economics	4		
+MGT101	Financial Accounting 3
+SE301	Data Structures	Required 3
+SE302	Digital Logic Design	3
+SE502	Fundamentals of Algorithms 3
+SE601	Data Communication 4
+MTH501	Linear Algebra 2
+PHY101	Physics 1
+SE403	Database Management Systems 3	
+SE504	Software Engineering - I	4
+SE604	Operating Systems	4
+SE610	Computer Network	4
+MGT211	Introduction To Business	5
+MTH603	Numerical Analysis	5
+SE408	Human Computer Interaction	5	
+SE506	Web Design and Development	5
+SE510	Software Requirements and Specifications	6
+SE605	Software EngineeringII		6
+MTH601	Operations Research		6
+STA301	Statistics and Probability	3
+SE202	Fundamentals of Front End Development	4
+SE508	Modern Programming Languages	4
+SE603	Software Architecture and Design	6
+SE608	Software Verification and Validation	7
+MCM301	Communication skills	7
+MGT301	Principles of Marketing		7
+MGT503	Principles of Management	6
+SE619	Final Project - CS619 		7
+SE607	Artificial Intelligence		7
+SE611	Software Quality Engineering		8
+SE615	Software Project Management	5
+SE625	Professional Practices			8
+MGT501	Human Resource Management 	8
+MGT602	Entrepreneurship	8
+SE619	Final Project	8
+SE311	Introduction to Web Services Development	8	
+SE402	Theory of Automatation	8
+SE614	Data Warehousing	8
